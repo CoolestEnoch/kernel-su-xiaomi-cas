@@ -1,6 +1,5 @@
 ## How to compile?
-~STEP ZERO~
-~OPEN A TERMINAL WINDOW HERE~
+*~STEP ZERO: OPEN A TERMINAL WINDOW HERE~*
 > Install dependences first:
 </br>*Debian*
 ```shell
