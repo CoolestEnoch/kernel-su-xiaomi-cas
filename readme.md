@@ -21,3 +21,8 @@ export CROSS_COMPILE_ARM32=./gcc/gcc-arm-gcc-master/bin/arm-eabi-
 ```shell
 cd kernel && make
 ```
+
+> 编好的内核在哪？ / Where is the kernel image file?
+```
+./kernel/arch/arm64/boot/
+```
