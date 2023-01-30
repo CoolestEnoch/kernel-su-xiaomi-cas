@@ -1,3 +1,5 @@
+[![ksuManagerScreenshot](/res/ksuManagerScreenShot.jpg)](https://github.com/CoolestEnoch/kernel-su-xiaomi-cas)
+
 ## 咋编译？ / How to compile?
 *~第一步：在这个文件夹开个命令行窗口 / STEP ZERO: OPEN A TERMINAL WINDOW HERE~*
 > 装依赖 / Install dependences first:
