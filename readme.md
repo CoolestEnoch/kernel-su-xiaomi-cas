@@ -1,7 +1,9 @@
 ## 咋编译？ / How to compile?
 *~第一步：在这个文件夹开个命令行窗口 / STEP ZERO: OPEN A TERMINAL WINDOW HERE~*
 > 装依赖 / Install dependences first:
-</br>*Debian*
+
+
+*Debian*
 ```shell
 sudo apt install git-core gnupg flex bison gpres build-essential zip curl zlibig-dev
 ```
