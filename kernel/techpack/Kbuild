@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: GPL-2.0-only
+TECHPACK?=y
+
+ifdef CONFIG_BOARD_CAS
+obj-y += stub/ audio/ data/ camera_cas/ video/ display/
+header-y += stub/include/uapi/ audio/include/uapi/ camera_cas/include/uapi/
+else
+obj-y += stub/ audio/ data/ camera/ video/ display/
+header-y += stub/include/uapi/ audio/include/uapi/ camera/include/uapi/
+endif
