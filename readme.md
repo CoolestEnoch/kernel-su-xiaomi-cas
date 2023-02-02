@@ -1,5 +1,8 @@
 [![ksuManagerScreenshot](/res/ksuManagerScreenShot.jpg)](https://github.com/CoolestEnoch/kernel-su-xiaomi-cas)
 
+## 编译过程视频（算得上教程吧...?） / Video Tutorial
+> [[ZH/CN] Bilibili](https://www.bilibili.com/video/BV1u24y167KE)
+
 ## 咋编译？ / How to compile?
 *~第一步：在这个文件夹开个命令行窗口 / STEP ZERO: OPEN A TERMINAL WINDOW HERE~*
 > 装依赖 / Install dependences first:
