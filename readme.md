@@ -31,3 +31,6 @@ cd kernel && make
 ```
 ./kernel/arch/arm64/boot/
 ```
+
+## 鸣谢 / Thanks 
+[KernelSU Project](https://github.com/tiann/KernelSU)
