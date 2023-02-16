@@ -37,3 +37,5 @@ cd kernel && make
 
 ## 鸣谢 / Thanks 
 [KernelSU Project](https://github.com/tiann/KernelSU)
+
+[Kernel for Xiaomi sm 8250](https://github.com/Laulan56/kernel_xiaomi_sm8250)
