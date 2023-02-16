@@ -1,5 +1,9 @@
 # *Kernel SU for Xiaomi Mi 10 Ultra*
 
+## *一键在线构建最新ksu内核 / Build it yourself online!*
+[![Kernel Builder Xiaomi Mi 10 Ultra (cas) (legacy)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/legacy.yml/badge.svg)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/legacy.yml)
+[![Kernel Builder Xiaomi Mi 10 Ultra (cas) (cloud)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/cloud.yml/badge.svg)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/cloud.yml)
+
 [![ksuManagerScreenshot](/res/ksuManagerScreenShot.jpg)](https://github.com/CoolestEnoch/kernel-su-xiaomi-cas)
 
 ## 编译过程视频（算得上教程吧...?） / Video Tutorial
@@ -13,7 +17,7 @@
 
 *Debian*
 ```shell
-sudo apt install git-core gnupg flex bison gpres build-essential zip curl zlibig-dev
+sudo apt install git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev libgl1-mesa-dev libxml2-utils xsltproc unzip bc
 ```
 *Arch Linux*
 ```shell
