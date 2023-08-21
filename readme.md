@@ -10,7 +10,7 @@
 > [[ZH/CN] Bilibili](https://www.bilibili.com/video/BV1u24y167KE)
 
 ## 咋编译？ / How to compile?
-[在Ubuntu上编译 / Compile on Ubuntu](https://github.com/CoolestEnoch/kernel-su-xiaomi-cas/issues/1)
+[在Ubuntu上编译 / Compile on Ubuntu](https://github.com/CoolestEnoch/kernel-su-xiaomi-cas/issues/1)<br/>
 **(我只在Arch Linux上测试过，Debian自己试 / I only did this on my Arch Linux, for Debian you should test it yourself.)**
 *~第一步：在这个文件夹开个命令行窗口 / STEP ZERO: OPEN A TERMINAL WINDOW HERE~*
 > 装依赖 / Install dependences first:
