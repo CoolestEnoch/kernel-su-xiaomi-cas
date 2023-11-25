@@ -1,6 +1,6 @@
 # *Kernel SU for Xiaomi Mi 10 Ultra*
 
-## *[点我获取每周自动在线构建的最新ksu内核 / Build it yourself online!](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online)*
+## *[点我获取每周自动在线构建的最新ksu内核 / Click to get CI version!](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online)*
 [![Kernel Builder Xiaomi Mi 10 Ultra (cas) (legacy)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/legacy.yml/badge.svg)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/legacy.yml)
 [![Kernel Builder Xiaomi Mi 10 Ultra (cas) (cloud)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/cloud.yml/badge.svg)](https://github.com/CoolestEnoch/kernelsu-xiaomi-cas-online/actions/workflows/cloud.yml)
 
